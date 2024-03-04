@@ -26,3 +26,4 @@ Ini adalah tugas akhir dari Dicoding dalam mata kuliah "Belajar Analisis Data De
 4. Buka VSCode Anda dan jalankan file tersebut dengan mengklik terminal dan tuliskan `streamlit run dashboard.py`.
 
 ## 4. Screenshots
+![alt text]()
