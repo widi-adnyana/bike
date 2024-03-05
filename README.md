@@ -25,9 +25,3 @@ Ini adalah tugas akhir dari Dicoding dalam mata kuliah "Belajar Analisis Data De
 3. Harap dicatat, jangan memindahkan file csv karena ia bertindak sebagai sumber data. simpan dalam satu folder sebagai dashboard.py
 4. Buka VSCode Anda dan jalankan file tersebut dengan mengklik terminal dan tuliskan `streamlit run dashboard.py`.
 
-## 4. Screenshots
-![alt text](screenshots/1.png)
-![alt text](screenshots/2.png)
-![alt text](screenshots/3.png)
-![alt text](screenshots/4.png)
-
